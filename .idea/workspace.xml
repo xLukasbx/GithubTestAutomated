@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="794ba007-7ef5-4b21-b9b2-11d377ab4d63" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/steps/CreateNewRepositoryPageSteps.java" afterPath="$PROJECT_DIR$/src/test/java/steps/CreateNewRepositoryPageSteps.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,8 +73,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="800">
-                <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <first_editor relative-caret-position="562">
+                <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -200,8 +198,8 @@
         <option value="$PROJECT_DIR$/src/main/java/github/webElementCreation/CreateWebElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/github/pageObject/UserPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/github/webDriverSetup/DriverCreator.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/steps/CreateNewRepositoryPageSteps.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -527,7 +525,7 @@
       <workItem from="1513121071780" duration="1868000" />
       <workItem from="1513448883356" duration="521000" />
       <workItem from="1513527460365" duration="862000" />
-      <workItem from="1515083486536" duration="1063000" />
+      <workItem from="1515083486536" duration="1155000" />
     </task>
     <servers />
   </component>
@@ -564,7 +562,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80153000" />
+    <option name="totallyTimeSpent" value="80245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -994,8 +992,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="800">
-            <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <first_editor relative-caret-position="562">
+            <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />

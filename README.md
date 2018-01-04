@@ -53,7 +53,7 @@ We have below scenario which consists with steps:
         And User click Create repository button
         Then User see created repository 'newProject'
 
-Each step it function executed from java code. Example, under step:
+Each step is executed from java code. Example, under step:
 
     Given User run 'https://github.com/' page
     
