@@ -4,12 +4,11 @@ import cucumber.api.java.en.When;
 import github.pageObject.CreateNewRepositoryPage;
 
 public class CreateNewRepositoryPageSteps {
-    private CreateNewRepositoryPage createNewRepositoryPage;
+    private CreateNewRepositoryPage createNewRepositoryPage = new CreateNewRepositoryPage();
 
 
     @When("^User set name '(.*)?' for repository$")
     public void setNameForRepository(String nameRepository) throws Throwable {
-        createNewRepositoryPage = new CreateNewRepositoryPage();
         createNewRepositoryPage.sendValueToRepositoryNameField(nameRepository);
     }
 
