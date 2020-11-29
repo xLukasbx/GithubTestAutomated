@@ -67,3 +67,5 @@ We have code from class src/test/java/steps/HomePageSteps (below is presented pa
 In this project has been used to design pattern [page object](https://martinfowler.com/bliki/PageObject.html).
 As we can see homePage it object class src/main/java/github/pageObject/HomePage which represent home page 
 on github website.      
+
+## The repos was archived and is not relevant any more
